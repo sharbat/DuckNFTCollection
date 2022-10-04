@@ -356,7 +356,7 @@ export default function Home() {
       
       <div className={styles.main}>
       <div>
-          <img className={styles.image} src="./cryptodevs/01.png" />
+          <img className={styles.image} src="./cryptodevs/0.png" />
         </div>
         <div>
         
@@ -370,7 +370,7 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./cryptodevs/22.png" />
+          <img className={styles.image} src="./cryptodevs/2.png" />
         </div>
       </div>
 
